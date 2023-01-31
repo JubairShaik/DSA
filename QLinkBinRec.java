@@ -85,3 +85,52 @@
 
 // // o/p
 // // its a Empty Queue .........
+
+
+
+
+
+
+
+
+
+
+// public class  binRecurrsion
+// {
+
+//    public static int binarySearch(int arr[], int left, int right, int item)
+//    {
+//         if (right >= left && left <= arr.length - 1) 
+//        {
+//             int mid = left + (right - left) / 2;
+
+//             if (arr[mid] == item)
+//                return mid;
+//             if (arr[mid] > item)
+//                return binarySearch(arr, left, mid - 1, item);
+//             return binarySearch(arr, mid + 1, right, item);
+//         }
+//         return -1;
+//    }
+
+
+
+
+//    public static void main(String[] args)
+
+//    {
+//         int arr[] = {10,20,25,30,40,50};
+//         int item = 25;
+//         int res = binarySearch(arr,0,arr.length-1,item);
+//         if(res == -1)
+//            System.out.println("The element is not found");
+//        else
+//            System.out.println("The element is at index "+res);
+//     }
+    
+// }
+
+
+
+// // output?
+// // The element is at index 2
