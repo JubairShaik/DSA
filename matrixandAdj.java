@@ -32,3 +32,21 @@
 // graph.insert_edge(2,3)
 // graph.adj_mat()
 graph.adj_list()
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
